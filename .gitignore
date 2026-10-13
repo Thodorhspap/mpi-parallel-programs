@@ -1,0 +1,5 @@
+# Build output
+*.exe
+*.o
+vector_stats
+sorted_check
